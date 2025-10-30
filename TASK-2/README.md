@@ -10,6 +10,11 @@ The goal is to classify each transaction as **Legitimate (0)** or **Fraud (1)** 
 ---
 
 ## 📌 Dataset Information
+The dataset (train.csv & test.csv) used for this project was provided by CodSoft.
+Due to the dataset size (~478MB) and usage restrictions, it is not uploaded to GitHub.
+All code works with the original dataset provided during the internship.
+
+**Dataset Link : "https://www.kaggle.com/datasets/kartik2112/fraud-detection"** 
 - **Files Provided**  
   ✅ `fraudTrain.csv`  
   ✅ `fraudTest.csv`
@@ -95,3 +100,4 @@ Task-2/
 ## 📌 Author
 🧑‍💻 *Mayank Singh*  
 Machine Learning & Python
+
