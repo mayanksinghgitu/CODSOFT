@@ -16,6 +16,9 @@ The goal is to convert raw text into meaningful numerical features and train mod
 ---
 
 ## ✅ 📂 Dataset Details
+The dataset (train.txt & test.txt) used for this project was provided by CodSoft. Due to the dataset size (~150 MB) and usage restrictions, it is not uploaded to GitHub. All code works with the original dataset provided during the internship.
+
+Dataset Link : "https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb"
 The dataset was provided in **.txt format**:
 - `train.txt` ➝ Used to train both models  
 - `test.txt` ➝ Used to test accuracy & predictions
@@ -120,4 +123,5 @@ Run all cells step-by-step — accuracy and results will be printed at the end.
 👤 Author
 
 Mayank Singh
+
 Machine Learning Intern – CodSoft
