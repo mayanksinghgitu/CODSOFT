@@ -1,4 +1,4 @@
-# Customer Churn Prediction – CODSOFT Internship
+# Task-3 Customer Churn Prediction – CODSOFT Internship
 
 This project aims to predict whether a customer will **churn** (leave the service) or **continue** using a subscription-based business.  
 The prediction is made using machine learning with historical customer data such as demographics, bank balance, tenure, and activity.
@@ -112,3 +112,4 @@ Such prediction models help companies reduce losses by retaining customers befor
 ## ✅ Author
 **Mayank Singh**  
 CODSOFT Internship – Machine Learning Tasks
+
